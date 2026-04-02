@@ -1,8 +1,8 @@
 # Salut ! 👋
 
-Je suis un **jeune développeur** passionné par la programmation.
+👥 Je suis un **jeune développeur** passionné par la programmation.
 
-Je suis actuellement en France !
+📌 Je suis actuellement en France !
 
 💻 **Langages que j’utilise :**  
 
