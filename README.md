@@ -17,7 +17,7 @@
 
 # 🎥 Mes tutos de code :
 
-[![YouTube](https://img.shields.io/badge/YouTube-Tutos%20Code-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TIsax-py)
+[![YouTube](https://img.shields.io/badge/YouTube-Tutos%20Code-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Isax-py)
 
 ---------
 
