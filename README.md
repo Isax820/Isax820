@@ -15,3 +15,5 @@
 
 **🌱 Toujours en train d’apprendre et de créer de nouveaux projets !  
 🚀 Motivé pour relever de nouveaux défis et partager mes connaissances.**
+
+![Isax820](https://github-readme-stats-fast.vercel.app/api?username=Isax820&show_icons=true&theme=dark)
